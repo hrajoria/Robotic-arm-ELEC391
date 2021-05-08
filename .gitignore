@@ -1,0 +1,8 @@
+# ignore compilation/documentation generated files and directories (temp files and so on)
+[_@]*
+
+# ignore compilation output (use *. file type to contribute to gitignore)
+
+*.zip
+*.log
+*.sai

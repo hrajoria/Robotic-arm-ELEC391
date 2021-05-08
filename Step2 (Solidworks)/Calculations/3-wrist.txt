@@ -1,0 +1,32 @@
+Mass properties of selected components
+     Coordinate system: Wrist Center of Rotation
+
+The center of mass and the moments of inertia are output in the coordinate system of Gripper NEW2
+Mass = 10.09 grams
+
+Volume = 5049.30 cubic millimeters
+
+Surface area = 5802.47  square millimeters
+
+Center of mass: ( millimeters )
+	X = -2.47
+	Y = -3.93
+	Z = -18.40
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-0.19,  0.01, -0.98)   	Px = 630.75
+	 Iy = ( 0.39, -0.91, -0.09)   	Py = 3542.21
+	 Iz = (-0.90, -0.40,  0.17)   	Pz = 3545.58
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 3441.81	Lxy = -7.07	Lxz = 538.65
+	Lyx = -7.07	Lyy = 3542.43	Lyz = -30.26
+	Lzx = 538.65	Lzy = -30.26	Lzz = 734.31
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 7016.36	Ixy = 90.92	Ixz = 998.10
+	Iyx = 90.92	Iyy = 7023.20	Iyz = 698.94
+	Izx = 998.10	Izy = 698.94	Izz = 951.57
