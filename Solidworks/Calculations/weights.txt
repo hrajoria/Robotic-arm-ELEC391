@@ -1,0 +1,38 @@
+Gripper Stage				2.45g	
+----------------	
+ball bearing			x1	0.04g
+spur gear 10 teeth M0.25	x2	0.01g
+spur gear 50 teeth M0.25	x1	0.24g
+pincer 				x2	0.74g
+M2 screw			x1	0.28g
+M2 nut				x1	0.10g
+DCX 8M motor			x1	4.40g
+				total	9.01g
+
+Wrist & Elbow Stage 			2.23g	
+----------------
+ball bearing			x2	0.04g
+spur gear 10 teeth M0.25	x2	0.01g
+spur gear 60 teeth M0.25	x2	0.35g
+M2 screw			x1	0.36g
+DCX 8M motor			x1	4.40g
+				total	7.79g
+
+Shoulder Stage				5.78g	
+----------------
+ball bearing			x2	0.16g
+spur gear 10 teeth M0.4		x2	0.03g
+spur gear 60 teeth M0.4		x2	1.33g
+M2 screw			x1	0.36g
+M2 nut				x1	0.17g
+DCX 14L motor			x1	26.0g
+				total	35.35g
+
+Base Stage				
+----------------
+ball bearing			x2	0.76g
+spur gear 10 teeth M1		x2	0.22g
+spur gear 60 teeth M1		x2	13.99g
+M3 screw			x4	0.70g
+DCX 32L motor			x1	325.0g
+		
